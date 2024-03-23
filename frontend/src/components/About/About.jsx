@@ -14,7 +14,7 @@ const About = () => {
             We believe in the transformative power of staying connected and
             supporting one another. Our platform is not just about technology;
             it's about the collective spirit and energy of our alumni community.
-            Meet our team [Link to a team member page, if you have one], and
+            Meet our team , and
             join us in shaping the future of our alumni network.
           </p>
         </div>
@@ -33,14 +33,14 @@ const About = () => {
             Our Story
           </h1>
           <p className="font-normal text-base leading-6 text-gray-600 ">
-            "At aluminilinkup, we understand that graduating is merely the
+            At aluminilinkup, we understand that graduating is merely the
             beginning of your journey. Our goal is to facilitate your continued
             growth, both personally and professionally. Our platform offers a
             wealth of resources, from mentorship programs and career
             opportunities to exclusive events and industry insights. We believe
             that the shared experiences and expertise within our alumni network
             have the potential to ignite your ambitions. Join aluminilinkup and
-            discover a community dedicated to your success."
+            discover a community dedicated to your success.
           </p>
         </div>
         <div className="w-full lg:w-8/12 lg:pt-8">
